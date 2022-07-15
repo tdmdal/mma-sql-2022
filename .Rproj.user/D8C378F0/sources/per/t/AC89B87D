@@ -3,7 +3,7 @@
     "path": "C:/Users/jay.cao/OneDrive/rotman/work/mma/mma-sql-2022/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "275953721",
+    "hash": "1151138059",
     "contents": "",
     "dirty": false,
     "created": 1656946984214.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "36,0",
-        "scrollLine": "29"
+        "cursorPosition": "14,116",
+        "scrollLine": "13"
     },
     "folds": "",
-    "lastKnownWriteTime": 1657908594,
+    "lastKnownWriteTime": 1657910021,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657908594027,
+    "last_content_update": 1657910021619,
     "read_only": false,
     "read_only_alternatives": []
 }
