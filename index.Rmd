@@ -24,8 +24,9 @@ title: "SQL Workshop"
 
 ### Slides
 
+* Intro to SQL ([sql_bootcamp.pdf](sql_bootcamp.pdf))
 
-* *Coming soon.*
+    Please print out page 12 of the slides (the "Northwind DB" page) so you can refer to it easily when we start hands-on exercises.
 
 
 ### Notebook
